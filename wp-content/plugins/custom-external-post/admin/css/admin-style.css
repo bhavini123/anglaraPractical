@@ -1,0 +1,9 @@
+.checkbox_lbl
+{
+    position: relative;
+    right: -20px;
+    top: -9px;
+}
+div#setting-error-settings-updated {
+    border-left-color: green !important;
+}
